@@ -1,6 +1,6 @@
 package spaceship;    // a grouping of classes
 //hi
-
+// xEBGBx was here :D
 public class spaceship {
     double speed;  // speed of spaceship
     int movex, movey;   // velocity in x and y
