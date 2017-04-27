@@ -1,5 +1,5 @@
 package spaceship;    // a grouping of classes
-
+//hi
 
 public class spaceship {
     double speed;  // speed of spaceship
