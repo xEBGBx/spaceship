@@ -7,7 +7,7 @@ public class spaceship {
     int x, y;   // position of the ship
    
     // constructor
-    Bob(int movex_ , int movey_, int x_, int y_){
+    spaceship(int movex_ , int movey_, int x_, int y_){
         movex = movex_;
         movey = movey_;
         x = x_;
@@ -15,7 +15,7 @@ public class spaceship {
         speed = Math.sqrt ((movex * movex) + (movey * movey));
     }
     // overloaded constructor
-    Bob(int movex_, int movey_){
+    spaceship(int movex_, int movey_){
         this(movex_, movey_, 0, 0);
     }
     // a method for moving the spaceship
